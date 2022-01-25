@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-dms/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#73](https://github.com/googleapis/python-dms/issues/73)) ([3b954e1](https://github.com/googleapis/python-dms/commit/3b954e11633af4d4542c6fa0d07ce476c7e01c82))
+
 ### [1.2.1](https://www.github.com/googleapis/python-dms/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
